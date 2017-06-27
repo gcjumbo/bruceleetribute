@@ -1,0 +1,53 @@
+body {
+   margin-top: 60px;   
+}
+
+.title-subtitle {
+   font-family: "Verdana", sans-serif;
+   text-align: center;
+}
+
+.container {
+   padding: 50px 50px 50px 50px;
+   border-style: solid;
+   border-width: 5px;
+   border-color: black;
+   background-color: #fffabc;
+   font-family: "Georgia", serif;
+   margin-bottom: 60px;
+}
+
+.caption {
+   text-align: center;
+   background-color: #fffce0;
+   padding: 10px 10px 10px 10px;
+}
+
+.quote {
+   font-family: "Arial", sans serif;
+   background-color: #fffce0;
+   padding: 50px 50px 50px 50px;
+}
+
+.inspire1 {
+
+}
+
+.inspire2 {
+   text-align: right;
+}
+
+.more-info {
+   background-color: #fffce0;
+   padding: 25px 25px 25px 25px;
+}
+
+.source-list {
+   font-style: italic;
+   text-indent: 25px;
+}
+
+footer {
+   text-align: center;
+   font-family: "Verdana", sans-serif;
+}
